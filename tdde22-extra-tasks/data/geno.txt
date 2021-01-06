@@ -1,0 +1,10 @@
+BIRTH Bohn Doe : January 7, 1599 : Jane Doe : Adam Doe
+BIRTH Ary Worth : May 18, 1666 : Jane Doe : Adam Doe
+BIRTH Casper Ghost : Jan 2, 1959 : Ary Worth : Bohn Doe
+DEATH Ary Worth : Jan 3, 1959
+ANCESTORS Casper Ghost
+DESCENDANTS Bohn Doe
+QUIT
+
+
+
